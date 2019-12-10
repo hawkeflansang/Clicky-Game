@@ -1,7 +1,7 @@
 {
   "name": "clicky",
   "version": "0.1.0",
-  "homepage": "https://hawkeflansang.github.io/Clicky-Game/",
+  "homepage": "https://hawkeflansang.github.io",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
